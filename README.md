@@ -1,9 +1,9 @@
 # Hi there, I'm Ankit! 👋
 
 ## About Me
-👨‍💻 Aspiring to become a Software Engineer
-🏫 Computer Science at the University of Maryland, College Park
-💻 Checkout my projects on my [Project Portfolio Website] ()
+👨‍💻 Aspiring to become a Software Engineer<br/>
+🏫 Computer Science at the University of Maryland, College Park<br/>
+💻 Checkout my projects on my [Project Portfolio Website]()<br/>
 
 ## Contact Info
 📧 [Email](mailto:aamin18@umd.edu) | 💼 [LinkedIn](https://www.linkedin.com/in/aminankit/)
