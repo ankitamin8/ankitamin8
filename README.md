@@ -6,7 +6,8 @@
 💻 Checkout my projects on my [Project Portfolio Website]()<br/>
 
 ## Contact Info
-📧 [Email](mailto:aamin18@umd.edu) | 💼 [LinkedIn](https://www.linkedin.com/in/aminankit/)
+<a href="mailto: aamin18@terpmail.umd.edu"><img width="9.5%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aminankit/" target="_blank"><img width="12%" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
